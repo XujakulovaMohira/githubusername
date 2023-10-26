@@ -1,0 +1,31 @@
+
+.card {
+    border: 1px solid #eee;
+    box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.05);
+    padding: 10px;
+    max-width: 500px;
+    margin: 20px auto;
+    border-radius: 5px;
+}
+
+.show{
+    text-align: left;
+}
+
+span{
+    font-weight: 900;
+}
+
+button { 
+    padding: 10px 20px; 
+    border-radius: 5px; 
+    border: none; 
+    font-size: 16px; 
+    cursor: pointer; 
+    font-weight: bold;
+} 
+  
+button:hover { 
+    box-shadow: 1px 1px 10px 1px rgb(215, 212, 212); 
+    transform: translate(0px, -1px); 
+}
